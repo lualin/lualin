@@ -1,22 +1,20 @@
 ### Hi there 👋
 
-<!--
-**lualin/lualin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Siwan as known as Sean, who is highly improvised personnel with good touch of designs.
+Aiming for skilled full-stack web developer in continuously learning behaviours and growth mindset.
+Loving animals especially capybaras that represent my personal ego as they are friendly to all!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on unemployed web developer
+- 🌱 I’m currently learning full-stack development at DevAcademy (Auckland, NZ based)
+- 👯 I’m looking to collaborate on some cool applications with aesthetic designs
+- 💬 Ask me about my mother tongue language :)
+- 📫 How to reach me: 
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: Capybara can sleep in the water!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lualin)](https://github.com/lualin/github-readme-stats)
 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.tenor.com/j9Fj-PzH_f4AAAAd/thinking-cat.gif" height="200" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="[https://media.tenor.com/j9Fj-PzH_f4AAAAd/thinking-cat.gif](https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif)" height="400" /></a>
