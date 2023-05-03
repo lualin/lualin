@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lualin)](https://github.com/lualin/github-readme-stats)
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.tenor.com/j9Fj-PzH_f4AAAAd/thinking-cat.gif" height="100" /></a>
+
+
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.tenor.com/j9Fj-PzH_f4AAAAd/thinking-cat.gif" height="200" /></a>
