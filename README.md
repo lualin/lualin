@@ -71,6 +71,7 @@
   <div>
       <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
   </div>
   
   ### 🌻 Network & Portfolio (See my Bio for links) 🌻
