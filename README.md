@@ -83,6 +83,13 @@
       <img src="https://img.shields.io/badge/Portfolio-34A7C1?style=flat&logo=protodotio&logoColor=white" />
 
   </div>
+  
+   ### 🪷 DevOps 🪷
+  
+  <div>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+  </div>
     
   ## 🍒 My Social Links 🍒
 
