@@ -98,12 +98,14 @@
 </div>
 
 ```
+  // Daily life
   if(brain != empty) {
     keepCoding();
   } else {
     orderCoffee();
   }
   
+  // Entire life
   while (alive) {
     eat();
     sleep();
