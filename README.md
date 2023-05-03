@@ -47,7 +47,7 @@
   </div>
   <div>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TS-Node-3178C6?style=flat&logo=tsnode&logoColor=white" />
+      <img src="https://img.shields.io/badge/TS Node-3178C6?style=flat&logo=tsnode&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white" />
   </div>
   <div>
