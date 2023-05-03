@@ -17,4 +17,4 @@ Loving animals especially capybaras that represent my personal ego as they are f
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lualin)](https://github.com/lualin/github-readme-stats)
 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[https://media.tenor.com/j9Fj-PzH_f4AAAAd/thinking-cat.gif](https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif)" height="400" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif" height="400" /></a>
