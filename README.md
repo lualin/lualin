@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 <div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:393659,50:7974AA,100:A0D2DB&height=180&section=header&text=Lualin%20Github&animation=fadeIn&fontSize=70&fontColor=fff&fontAlignY=40&desc=🥀%20🌺%20🌸%20🌼%20🌻&descSize=35&descAlignY=80)
+
   
   ## 🍀 Welcome to my GitHub 🍀
   Hi there to all whom reached to my profile 👋
@@ -84,10 +86,10 @@
   ## 🍒 My Social Links 🍒
 
   <a href="https://www.instagram.com/___lualinxxi/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/104989704/235876171-22604b56-8ab2-473f-838b-f8dd96a4fb6f.png)" height="100" /></a>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lualin&theme=material-palenight&show_icons=true)](https://github.com/lualin/github-readme-stats)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lualin)](https://github.com/lualin/github-readme-stats)
-
-
+  
   <a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif" height="400" /></a>
   
 </div>
