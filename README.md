@@ -86,7 +86,9 @@
   ## 🍒 My Social Links 🍒
 
   <a href="https://www.instagram.com/___lualinxxi/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/104989704/235876171-22604b56-8ab2-473f-838b-f8dd96a4fb6f.png)" height="100" /></a>
-  
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flualin&count_bg=%23F3C5F2&title_bg=%23BE73E8&icon=github.svg&icon_color=%239FBEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lualin&theme=material-palenight&show_icons=true)](https://github.com/lualin/github-readme-stats)
 
   
